@@ -2,8 +2,8 @@
 Here are my solutions 
 
 ## 1. Here is the hoisted link and code where i have designed the UI using only HTML and CSS  
-link:
-code:
+link:  
+code: https://github.com/tareeqadnaan806/kommunicate2
 
 ## 2. here is the code for 2nd problem  
    function getUrlParameterValue(url, parameter) {  
